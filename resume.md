@@ -4,4 +4,4 @@
 
 
 ## Education 
-- BSc. Geophysics, Colorado School of Mines (2027)
+- BSc. Geophysics, minor: data science, Colorado School of Mines (2027)
