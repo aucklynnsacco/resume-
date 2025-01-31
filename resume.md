@@ -1,7 +1,7 @@
 # Aucklynn Sacco 
 - Email: asacco@mines.edu
 - Location: Golden, CO
-- LinkedIn:[(www.linkedin.com/in/aucklynnsacco}]
+- [LinkedIn](www.linkedin.com/in/aucklynnsacco)
 
   
 ![Headshot](Headshot.png)
