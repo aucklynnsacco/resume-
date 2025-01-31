@@ -1,7 +1,7 @@
 # Aucklynn Sacco 
 - Email: asacco@mines.edu
 - Location: Golden, CO
-![Headshot](IMG_7912.PNG)
+![Headshot](Headshot.png)
 
 Enthusiastic and dedicated student pursuing a B.S. in Geophysics with a strong foundation in earth sciences, physics, and data analysis. Seeking opportunities to apply academic knowledge through internships or research projects to further develop skills and contribute to the field of geophysics.
 ## Education 
