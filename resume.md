@@ -52,7 +52,7 @@ Colorado State University - Black Hawk, CO: Apr. 2022 - June. 2023
 ## Skills 
 Python, c++, R Studio, GitHub, Microsoft Teams, Microsoft Suite, Google Suite, Communication, Team Management, Team Work, Teaching,  Adaptability, Problem-Solving 
 
-## Affilications 
+## Affiliations 
 - Society of Women Engineers - Member
 - Rockhounding Club - Member
 - Thorson First year Honors
