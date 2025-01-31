@@ -6,7 +6,7 @@ Enthusiastic and dedicated student pursuing a B.S. in Geophysics with a strong f
 ## Education 
 ### Major in Geophysics, Minor in Data Science -  Expected May 2027
 Colorado School of Mines - Golden, CO
-
+![plot](work/classes/GPGN268/resume/IMG_7912.PNG
 GPA: 3.4						                                                                  
 #### - Awards:
 - ##### Harvey Scholar
